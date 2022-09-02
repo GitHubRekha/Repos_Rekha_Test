@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFRekhaTest"
 		},
+		"linkedstorageblob_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
