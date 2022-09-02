@@ -1,0 +1,9 @@
+{
+	"name": "ADFRekhaTest",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f50b71c5-418d-4f32-8604-610169b8849d",
+		"tenantId": "b3526deb-b31c-439b-90de-3fbb43d7a55f"
+	}
+}
